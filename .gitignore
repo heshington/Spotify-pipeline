@@ -1,0 +1,4 @@
+data/raw/*.json
+.venv/
+spotify/target/
+spotify/dbt_packages/
