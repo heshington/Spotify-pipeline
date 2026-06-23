@@ -1,0 +1,648 @@
+{
+  "stats" : [ {
+    "date" : "2026-06-22",
+    "streamCount" : 0,
+    "secondsPlayed" : 4264,
+    "topTracks" : [ {
+      "name" : "Teenage Dirtbag",
+      "streamCount" : 1,
+      "secondsPlayed" : 241
+    }, {
+      "name" : "Don’t Blame Me",
+      "streamCount" : 1,
+      "secondsPlayed" : 236
+    }, {
+      "name" : "Funeral",
+      "streamCount" : 1,
+      "secondsPlayed" : 234
+    }, {
+      "name" : "The Way I Are",
+      "streamCount" : 1,
+      "secondsPlayed" : 229
+    }, {
+      "name" : "Love Runs Out",
+      "streamCount" : 1,
+      "secondsPlayed" : 224
+    }, {
+      "name" : "Sweet Dreams (Are Made of This) - 2005 Remaster",
+      "streamCount" : 1,
+      "secondsPlayed" : 216
+    }, {
+      "name" : "Temperature",
+      "streamCount" : 1,
+      "secondsPlayed" : 216
+    }, {
+      "name" : "Love Me Not",
+      "streamCount" : 1,
+      "secondsPlayed" : 213
+    }, {
+      "name" : "Don't Let Me Down",
+      "streamCount" : 1,
+      "secondsPlayed" : 208
+    }, {
+      "name" : "Liar",
+      "streamCount" : 1,
+      "secondsPlayed" : 204
+    } ],
+    "topArtists" : [ {
+      "name" : "Wheatus",
+      "streamCount" : 1,
+      "secondsPlayed" : 241
+    }, {
+      "name" : "Taylor Swift",
+      "streamCount" : 1,
+      "secondsPlayed" : 236
+    }, {
+      "name" : "Teddy Swims",
+      "streamCount" : 1,
+      "secondsPlayed" : 234
+    }, {
+      "name" : "Timbaland",
+      "streamCount" : 1,
+      "secondsPlayed" : 229
+    }, {
+      "name" : "OneRepublic",
+      "streamCount" : 1,
+      "secondsPlayed" : 224
+    }, {
+      "name" : "Eurythmics",
+      "streamCount" : 1,
+      "secondsPlayed" : 216
+    }, {
+      "name" : "Sean Paul",
+      "streamCount" : 1,
+      "secondsPlayed" : 216
+    }, {
+      "name" : "Ravyn Lenae",
+      "streamCount" : 1,
+      "secondsPlayed" : 213
+    }, {
+      "name" : "The Chainsmokers",
+      "streamCount" : 1,
+      "secondsPlayed" : 208
+    }, {
+      "name" : "Jelly Roll",
+      "streamCount" : 1,
+      "secondsPlayed" : 204
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-06-15",
+    "streamCount" : 0,
+    "secondsPlayed" : 43350,
+    "topTracks" : [ {
+      "name" : "A Tear in Space (Airlock)",
+      "streamCount" : 5,
+      "secondsPlayed" : 1172
+    }, {
+      "name" : "La La La",
+      "streamCount" : 5,
+      "secondsPlayed" : 1159
+    }, {
+      "name" : "The Way I Are",
+      "streamCount" : 4,
+      "secondsPlayed" : 774
+    }, {
+      "name" : "Levels",
+      "streamCount" : 4,
+      "secondsPlayed" : 586
+    }, {
+      "name" : "Love Again",
+      "streamCount" : 3,
+      "secondsPlayed" : 754
+    }, {
+      "name" : "The Fate of Ophelia",
+      "streamCount" : 3,
+      "secondsPlayed" : 678
+    }, {
+      "name" : "Country Girl (Shake It For Me)",
+      "streamCount" : 3,
+      "secondsPlayed" : 676
+    }, {
+      "name" : "Espresso",
+      "streamCount" : 3,
+      "secondsPlayed" : 638
+    }, {
+      "name" : "Funeral",
+      "streamCount" : 3,
+      "secondsPlayed" : 604
+    }, {
+      "name" : "Maps",
+      "streamCount" : 3,
+      "secondsPlayed" : 569
+    } ],
+    "topArtists" : [ {
+      "name" : "Red Hot Chili Peppers",
+      "streamCount" : 12,
+      "secondsPlayed" : 3090
+    }, {
+      "name" : "Linkin Park",
+      "streamCount" : 12,
+      "secondsPlayed" : 2369
+    }, {
+      "name" : "Glass Animals",
+      "streamCount" : 9,
+      "secondsPlayed" : 1947
+    }, {
+      "name" : "Dua Lipa",
+      "streamCount" : 7,
+      "secondsPlayed" : 1574
+    }, {
+      "name" : "Timbaland",
+      "streamCount" : 7,
+      "secondsPlayed" : 1465
+    }, {
+      "name" : "Teddy Swims",
+      "streamCount" : 7,
+      "secondsPlayed" : 1459
+    }, {
+      "name" : "Nickelback",
+      "streamCount" : 6,
+      "secondsPlayed" : 1262
+    }, {
+      "name" : "Naughty Boy",
+      "streamCount" : 5,
+      "secondsPlayed" : 1159
+    }, {
+      "name" : "Taylor Swift",
+      "streamCount" : 5,
+      "secondsPlayed" : 1151
+    }, {
+      "name" : "Lady Gaga",
+      "streamCount" : 5,
+      "secondsPlayed" : 1151
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-06-08",
+    "streamCount" : 0,
+    "secondsPlayed" : 63130,
+    "topTracks" : [ {
+      "name" : "Blinding Lights",
+      "streamCount" : 6,
+      "secondsPlayed" : 1635
+    }, {
+      "name" : "A Tear in Space (Airlock)",
+      "streamCount" : 6,
+      "secondsPlayed" : 1442
+    }, {
+      "name" : "The Way I Are",
+      "streamCount" : 5,
+      "secondsPlayed" : 785
+    }, {
+      "name" : "Call It Love",
+      "streamCount" : 5,
+      "secondsPlayed" : 772
+    }, {
+      "name" : "Dangerous Hands",
+      "streamCount" : 5,
+      "secondsPlayed" : 743
+    }, {
+      "name" : "Honey Boy (feat. Nile Rodgers & Shenseea)",
+      "streamCount" : 5,
+      "secondsPlayed" : 1136
+    }, {
+      "name" : "The Way I Are",
+      "streamCount" : 4,
+      "secondsPlayed" : 919
+    }, {
+      "name" : "Temperature",
+      "streamCount" : 4,
+      "secondsPlayed" : 865
+    }, {
+      "name" : "The Door",
+      "streamCount" : 4,
+      "secondsPlayed" : 850
+    }, {
+      "name" : "Liar",
+      "streamCount" : 4,
+      "secondsPlayed" : 819
+    } ],
+    "topArtists" : [ {
+      "name" : "Teddy Swims",
+      "streamCount" : 24,
+      "secondsPlayed" : 4518
+    }, {
+      "name" : "Timbaland",
+      "streamCount" : 12,
+      "secondsPlayed" : 2478
+    }, {
+      "name" : "Dua Lipa",
+      "streamCount" : 11,
+      "secondsPlayed" : 2397
+    }, {
+      "name" : "Sean Paul",
+      "streamCount" : 10,
+      "secondsPlayed" : 1950
+    }, {
+      "name" : "Purple Disco Machine",
+      "streamCount" : 8,
+      "secondsPlayed" : 1526
+    }, {
+      "name" : "Tiësto",
+      "streamCount" : 8,
+      "secondsPlayed" : 1112
+    }, {
+      "name" : "Sabrina Carpenter",
+      "streamCount" : 7,
+      "secondsPlayed" : 1151
+    }, {
+      "name" : "Jonas Brothers",
+      "streamCount" : 7,
+      "secondsPlayed" : 1058
+    }, {
+      "name" : "Tate McRae",
+      "streamCount" : 7,
+      "secondsPlayed" : 1098
+    }, {
+      "name" : "Glass Animals",
+      "streamCount" : 6,
+      "secondsPlayed" : 1442
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-06-01",
+    "streamCount" : 0,
+    "secondsPlayed" : 64642,
+    "topTracks" : [ {
+      "name" : "A Tear in Space (Airlock)",
+      "streamCount" : 13,
+      "secondsPlayed" : 3019
+    }, {
+      "name" : "New Heart",
+      "streamCount" : 7,
+      "secondsPlayed" : 1345
+    }, {
+      "name" : "The Door",
+      "streamCount" : 7,
+      "secondsPlayed" : 1147
+    }, {
+      "name" : "The Way I Are",
+      "streamCount" : 6,
+      "secondsPlayed" : 803
+    }, {
+      "name" : "Love Me Not",
+      "streamCount" : 5,
+      "secondsPlayed" : 1032
+    }, {
+      "name" : "Just Keep Watching (From F1® The Movie)",
+      "streamCount" : 5,
+      "secondsPlayed" : 559
+    }, {
+      "name" : "The Way I Are",
+      "streamCount" : 5,
+      "secondsPlayed" : 1136
+    }, {
+      "name" : "Maps",
+      "streamCount" : 4,
+      "secondsPlayed" : 759
+    }, {
+      "name" : "No Time To Talk",
+      "streamCount" : 4,
+      "secondsPlayed" : 580
+    }, {
+      "name" : "Honey Boy (feat. Nile Rodgers & Shenseea)",
+      "streamCount" : 4,
+      "secondsPlayed" : 909
+    } ],
+    "topArtists" : [ {
+      "name" : "Red Hot Chili Peppers",
+      "streamCount" : 28,
+      "secondsPlayed" : 6643
+    }, {
+      "name" : "Glass Animals",
+      "streamCount" : 24,
+      "secondsPlayed" : 5379
+    }, {
+      "name" : "Teddy Swims",
+      "streamCount" : 16,
+      "secondsPlayed" : 2188
+    }, {
+      "name" : "Timbaland",
+      "streamCount" : 10,
+      "secondsPlayed" : 2130
+    }, {
+      "name" : "Lady Gaga",
+      "streamCount" : 7,
+      "secondsPlayed" : 1818
+    }, {
+      "name" : "Ed Sheeran",
+      "streamCount" : 7,
+      "secondsPlayed" : 1414
+    }, {
+      "name" : "Crash Adams",
+      "streamCount" : 7,
+      "secondsPlayed" : 1345
+    }, {
+      "name" : "Dua Lipa",
+      "streamCount" : 7,
+      "secondsPlayed" : 1274
+    }, {
+      "name" : "Ravyn Lenae",
+      "streamCount" : 6,
+      "secondsPlayed" : 1220
+    }, {
+      "name" : "Maroon 5",
+      "streamCount" : 6,
+      "secondsPlayed" : 1210
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-05-25",
+    "streamCount" : 0,
+    "secondsPlayed" : 67952,
+    "topTracks" : [ {
+      "name" : "A Tear in Space (Airlock)",
+      "streamCount" : 19,
+      "secondsPlayed" : 4267
+    }, {
+      "name" : "The Way I Are",
+      "streamCount" : 11,
+      "secondsPlayed" : 1611
+    }, {
+      "name" : "Don't Let Me Down",
+      "streamCount" : 8,
+      "secondsPlayed" : 1684
+    }, {
+      "name" : "Espresso",
+      "streamCount" : 8,
+      "secondsPlayed" : 1060
+    }, {
+      "name" : "Just Keep Watching (From F1® The Movie)",
+      "streamCount" : 7,
+      "secondsPlayed" : 806
+    }, {
+      "name" : "The Door",
+      "streamCount" : 6,
+      "secondsPlayed" : 1179
+    }, {
+      "name" : "The Big Bang",
+      "streamCount" : 6,
+      "secondsPlayed" : 961
+    }, {
+      "name" : "Honey Boy (feat. Nile Rodgers & Shenseea)",
+      "streamCount" : 6,
+      "secondsPlayed" : 1236
+    }, {
+      "name" : "Enjoy the Silence",
+      "streamCount" : 5,
+      "secondsPlayed" : 1226
+    }, {
+      "name" : "Love Me Not",
+      "streamCount" : 5,
+      "secondsPlayed" : 1067
+    } ],
+    "topArtists" : [ {
+      "name" : "Glass Animals",
+      "streamCount" : 22,
+      "secondsPlayed" : 4995
+    }, {
+      "name" : "Dua Lipa",
+      "streamCount" : 14,
+      "secondsPlayed" : 2911
+    }, {
+      "name" : "Tate McRae",
+      "streamCount" : 13,
+      "secondsPlayed" : 1732
+    }, {
+      "name" : "LIM3",
+      "streamCount" : 11,
+      "secondsPlayed" : 1611
+    }, {
+      "name" : "Lady Gaga",
+      "streamCount" : 10,
+      "secondsPlayed" : 2315
+    }, {
+      "name" : "Ed Sheeran",
+      "streamCount" : 10,
+      "secondsPlayed" : 2054
+    }, {
+      "name" : "Teddy Swims",
+      "streamCount" : 10,
+      "secondsPlayed" : 1995
+    }, {
+      "name" : "Timbaland",
+      "streamCount" : 9,
+      "secondsPlayed" : 1820
+    }, {
+      "name" : "Sabrina Carpenter",
+      "streamCount" : 9,
+      "secondsPlayed" : 1138
+    }, {
+      "name" : "The Chainsmokers",
+      "streamCount" : 8,
+      "secondsPlayed" : 1684
+    } ],
+    "topGenres" : [ ]
+  } ],
+  "highlights" : [ {
+    "date" : "2026-06-14",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "My playlist #20",
+      "listeningPercentage" : 52.39623616351709
+    }
+  }, {
+    "date" : "2026-06-07",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Red Hot Chili Peppers",
+      "country" : "NZ",
+      "secondsPlayed" : 6630,
+      "marketAvgSecondsPlayed" : 804.5278
+    }
+  }, {
+    "date" : "2026-05-31",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "My playlist #20",
+      "milestoneListeningSeconds" : 56698
+    }
+  }, {
+    "date" : "2026-05-24",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "A Tear in Space (Airlock)",
+      "streamCount" : 15
+    }
+  }, {
+    "date" : "2026-05-17",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "A Tear in Space (Airlock)",
+      "dayStreaks" : 3
+    }
+  }, {
+    "date" : "2026-05-10",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Glass Animals", "Teddy Swims", "Dua Lipa", "A Tear in Space (Airlock)", "Disturbia", "Dangerous Hands", "What It Sounds Like", "The Way I Are", "The Fate of Ophelia" ],
+      "milestoneListeningSeconds" : 48670
+    }
+  }, {
+    "date" : "2026-05-03",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "The Way I Are",
+      "streamCount" : 11
+    }
+  }, {
+    "date" : "2026-04-26",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Teddy Swims",
+      "country" : "NZ",
+      "secondsPlayed" : 6012,
+      "marketAvgSecondsPlayed" : 648.0495
+    }
+  }, {
+    "date" : "2026-04-19",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "My playlist #20",
+      "listeningPercentage" : 65.77374766160882
+    }
+  }, {
+    "date" : "2026-04-12",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Call It Love",
+      "dayStreaks" : 4
+    }
+  }, {
+    "date" : "2026-04-05",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "My playlist #20",
+      "milestoneListeningSeconds" : 34711
+    }
+  }, {
+    "date" : "2026-03-29",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Dive Into Me",
+      "country" : "NZ",
+      "position" : 7961
+    }
+  }, {
+    "date" : "2026-03-22",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "A Tear in Space (Airlock)",
+      "streamCount" : 15
+    }
+  }, {
+    "date" : "2026-03-15",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Teddy Swims",
+      "dayStreaks" : 7
+    }
+  }, {
+    "date" : "2026-03-08",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Luke Bryan",
+      "secondEntity" : "Lata Mangeshkar"
+    }
+  }, {
+    "date" : "2026-03-01",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Red Hot Chili Peppers",
+      "country" : "NZ",
+      "secondsPlayed" : 5952,
+      "marketAvgSecondsPlayed" : 823.0419
+    }
+  }, {
+    "date" : "2026-02-22",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "My playlist #20",
+      "listeningPercentage" : 39.743988713927095
+    }
+  }, {
+    "date" : "2026-02-15",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Keri Hilson", "Timbaland", "D.O.E.", "Disturbia", "A Tear in Space (Airlock)", "The Way I Are", "ARTPOP", "The Way I Are", "Honey Boy (feat. Nile Rodgers & Shenseea)" ],
+      "milestoneListeningSeconds" : 45181
+    }
+  }, {
+    "date" : "2026-02-08",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "The Way I Are",
+      "streamCount" : 19
+    }
+  }, {
+    "date" : "2026-02-01",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "A Tear in Space (Airlock)",
+      "dayStreaks" : 4
+    }
+  }, {
+    "date" : "2026-01-25",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "make you mine",
+      "country" : "NZ",
+      "position" : 358
+    }
+  }, {
+    "date" : "2026-01-18",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Coldplay",
+      "country" : "NZ",
+      "secondsPlayed" : 8307,
+      "marketAvgSecondsPlayed" : 782.9995
+    }
+  }, {
+    "date" : "2026-01-11",
+    "highlightType" : "FANS_LIKE_YOU",
+    "fansLikeYouHighlight" : {
+      "entity" : "The Fate of Ophelia",
+      "country" : "NZ",
+      "position" : 4,
+      "previousPosition" : 4,
+      "numberOfListeners" : 106183
+    }
+  }, {
+    "date" : "2026-01-04",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "D.O.E.",
+      "secondEntity" : "Copacetik"
+    }
+  }, {
+    "date" : "2025-12-28",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "My playlist #20",
+      "listeningPercentage" : 40.18754429643629
+    }
+  }, {
+    "date" : "2025-12-21",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Timbaland", "Glass Animals", "Keri Hilson", "A Tear in Space (Airlock)", "Honey Boy (feat. Nile Rodgers & Shenseea)", "Tujhe Dekha To (From \"Dilwale Dulhania Le Jayenge\")", "The Way I Are", "God Is A Dancer (with Mabel)", "Liar" ],
+      "milestoneListeningSeconds" : 87028
+    }
+  }, {
+    "date" : "2025-12-14",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "A Tear in Space (Airlock)",
+      "streamCount" : 17
+    }
+  }, {
+    "date" : "2025-12-07",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Timbaland",
+      "dayStreaks" : 7
+    }
+  } ]
+}

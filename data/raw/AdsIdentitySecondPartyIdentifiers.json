@@ -1,0 +1,23 @@
+{
+  "ids" : [ {
+    "identifierType" : "COOKIE_1P",
+    "identifier" : "18b60aa9e3a4421093fc57fb6ca2e766",
+    "generatedAt" : "1779144984949000"
+  }, {
+    "identifierType" : "COOKIE_1P",
+    "identifier" : "d7f565fb919d4c27bba0766a07935006",
+    "generatedAt" : "1779333617713000"
+  }, {
+    "identifierType" : "COOKIE_1P",
+    "identifier" : "11da5005b7d34585b5cd5fb51ba4aab1",
+    "generatedAt" : "1779333670589000"
+  }, {
+    "identifierType" : "COOKIE_1P",
+    "identifier" : "ad59e82fac4b4bf1ae543c682aec2cb1",
+    "generatedAt" : "1780474822255000"
+  }, {
+    "identifierType" : "COOKIE_1P",
+    "identifier" : "cbc2b67b9e3540f59139f57d066681a9",
+    "generatedAt" : "1781766439492000"
+  } ]
+}
