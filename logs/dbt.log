@@ -120,3 +120,19 @@ Runtime Error
 [0m14:46:51.245272 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10be2b490>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10be2f890>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10c023f00>]}
 [0m14:46:51.245512 [debug] [MainThread]: Flushing usage events
 [0m14:46:52.272171 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m14:50:44.693122 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10afa4440>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10c50e710>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10c50e990>]}
+
+
+============================== 14:50:44.695404 | c43b2c7d-451f-42af-a2f5-e22e67133df9 ==============================
+[0m14:50:44.695404 [info ] [MainThread]: Running with dbt=1.12.0-b3
+[0m14:50:44.695634 [debug] [MainThread]: running dbt with arguments {'debug': 'False', 'quiet': 'False', 'invocation_command': 'dbt run --select dim_date', 'target_path': 'None', 'cache_selected_only': 'False', 'fail_fast': 'False', 'profiles_dir': '/Users/hiren/.dbt', 'static_parser': 'True', 'log_cache_events': 'False', 'indirect_selection': 'eager', 'log_path': 'logs', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'log_format': 'default', 'introspect': 'True', 'use_experimental_parser': 'False', 'use_colors': 'True', 'maximum_seed_size_mib': '1', 'no_print': 'None', 'empty': 'False', 'partial_parse': 'True', 'write_json': 'True', 'warn_error': 'None', 'version_check': 'True', 'send_anonymous_usage_stats': 'True', 'printer_width': '80'}
+[0m14:50:44.695831 [error] [MainThread]: [[31mERROR[0m]: Encountered an error:
+Runtime Error
+  No dbt_project.yml found at expected path /Users/hiren/data_projects/spotify_pipeline/dbt_project.yml
+  Verify that each entry within packages.yml (and their transitive dependencies) contains a file named dbt_project.yml
+  
+[0m14:50:44.699691 [debug] [MainThread]: Resource report: {"command_name": "run", "command_success": false, "command_wall_clock_time": 0.04171058, "process_in_blocks": "0", "process_kernel_time": 0.114835, "process_mem_max_rss": "130727936", "process_out_blocks": "0", "process_user_time": 0.475569}
+[0m14:50:44.699917 [debug] [MainThread]: Command `dbt run` failed at 14:50:44.699880 after 0.04 seconds
+[0m14:50:44.700038 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10c4bd0f0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10c4929f0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10c57c7c0>]}
+[0m14:50:44.700153 [debug] [MainThread]: Flushing usage events
+[0m14:50:45.732738 [debug] [MainThread]: An error was encountered while trying to flush usage events
